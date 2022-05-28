@@ -5,3 +5,16 @@
   flex-wrap: wrap;
   border-style: solid;
 }
+
+.grid div {
+  width: 20px;
+  height: 20px;
+}
+
+.snake {
+  background-color: teal;
+}
+
+.food {
+  background-color: brown;
+}
